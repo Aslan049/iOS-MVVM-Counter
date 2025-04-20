@@ -31,7 +31,7 @@ Uygulamayı yerel makinenizde çalıştırmak için aşağıdaki adımları izle
 
 1.  Bu GitHub deposunu klonlayın:
     ```bash
-    git clone [depo URL'niz buraya]
+    git clone (https://github.com/Aslan049/iOS-MVVM-Counter.git)
     ```
 2.  Xcode'u açın ve proje dosyasını (`.xcodeproj` veya `.xcworkspace`) seçin.
 3.  Uygulamayı bir simülatörde veya gerçek bir cihazda çalıştırın.
