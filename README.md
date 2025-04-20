@@ -9,7 +9,7 @@ MVVM mimarisiyle geliştirilmiş, programmatic UI (kodla arayüz) kullanan basit
 - [Mimari](#mimari)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Yazar](#yazar)
+
 
 ## Genel Bakış
 
